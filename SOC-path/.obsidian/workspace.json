@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "b27882a6f82072ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e73fe798f29313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26caf77539b39c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path/File path traversal, validation of start of path.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File path traversal, validation of start of path"
+            }
+          },
+          {
+            "id": "7fd1af76d0cdda82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting/What is Cross-site Scripting/What is Cross-site Scripting?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Cross-site Scripting?"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12567ee9368d9b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d065b1d61e51eb89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "343363ff240ecbaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75d6709c0ddb6100",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1710159fd9984f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "571f84bb0e5cc25f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ff811049221c38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "145d4587af63509b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LetsDefend/2024-12-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-02"
+            }
+          },
+          {
+            "id": "cb28966a776304b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LetsDefend/2024-12-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-02"
+            }
+          },
+          {
+            "id": "388500ac8c32a2fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "993688a5b8093598",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LetsDefend/2024-12-02.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7fd1af76d0cdda82",
+  "lastOpenFiles": [
+    "TryHackMe Learning Path/XSS/7. Context and Evasion.md",
+    "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting/What is Cross-site Scripting/What is Cross-site Scripting?.md",
+    "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting/What is Cross-site Scripting",
+    "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting",
+    "Portswigger Labs/Server-side vulnerabilities/Untitled.md",
+    "TryHackMe Learning Path/XSS/6. DOM-based XSS.md",
+    "TryHackMe Learning Path/XSS/5. Stored XSS.md",
+    "TryHackMe Learning Path/XSS/4. Vulnerable Site 1.md",
+    "TryHackMe Learning Path/XSS/3. Reflected XSS.md",
+    "TryHackMe Learning Path/XSS/2. Causes and Implications.md",
+    "TryHackMe Learning Path/XSS/1. Terminology and Types.md",
+    "PHP Backend/Login&Register(Database)/3. Connecting DB using PHP.md",
+    "TryHackMe Learning Path/XSS",
+    "PHP Backend/Login&Register(Database)/4. Register Logic.md",
+    "PHP Backend/Login&Register(Database)/2. Setting up Database.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path/File path traversal, validation of start of path.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/8. PHP code example/Code Example.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/0. Path Traversal in Simple terms/Path traversal simple analogy.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/8. PHP code example",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/7. How to prevent Path Traversal/How to prevent a path traversal attack.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/0. Path Traversal in Simple terms",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/6. Null byte Bypass/File path traversal, validation of file extension with null byte bypass.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/7. How to prevent Path Traversal",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/4. Superfluous URL-decode/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/6. Null byte Bypass",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/2. Absolute block bypass/File path traversal, traversal sequences blocked with absolute path bypass.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/Decode/Untitled",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/4. Superfluous URL-decode",
+    "PHP Backend/Login&Register(Database)/Future updates and Enhancements.md",
+    "PHP Backend/Login&Register(Database)/1. Project Structure.md",
+    "PHP Backend/Roadmap/My plan.md",
+    "TryHackMe Learning Path/DNS/Making A Request.md",
+    "TryHackMe Learning Path/DNS/What is DNS?.md",
+    "MetaCTF Past challenges/Web/Direct Login.md",
+    "MetaCTF Past challenges/Forensics/runCaptcha.md",
+    "Pasted image 20250101195831.png",
+    "Pasted image 20241227071130.png",
+    "Pasted image 20241202203307.png",
+    "Pasted image 20241218184740.jpg",
+    "Pasted image 20241218184706.jpg",
+    "Pasted image 20241218184649.jpg",
+    "Pasted image 20241218184624.jpg",
+    "Pasted image 20241218184606.jpg",
+    "Pasted image 20241218184550.jpg",
+    "Pasted image 20241218184500.jpg",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
