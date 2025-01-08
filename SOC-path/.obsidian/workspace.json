@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe Learning Path/Nmap/Scan-types/2. TCP Connect Scans.md",
+                "file": "TryHackMe Learning Path/Nmap/Scan-types/3. SYN scans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. TCP Connect Scans"
+              "title": "3. SYN scans"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe Learning Path/Nmap/Scan-types/2. TCP Connect Scans.md",
+                "file": "TryHackMe Learning Path/Nmap/Scan-types/3. SYN scans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. TCP Connect Scans"
+              "title": "Backlinks for 3. SYN scans"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe Learning Path/Nmap/Scan-types/2. TCP Connect Scans.md",
+                "file": "TryHackMe Learning Path/Nmap/Scan-types/3. SYN scans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. TCP Connect Scans"
+              "title": "Outgoing links from 3. SYN scans"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe Learning Path/Nmap/Scan-types/2. TCP Connect Scans.md"
+                "file": "TryHackMe Learning Path/Nmap/Scan-types/3. SYN scans.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. TCP Connect Scans"
+              "title": "Outline of 3. SYN scans"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "896a06a32e4abe30",
   "lastOpenFiles": [
-    "TryHackMe Learning Path/Nmap/Scan-types/1. Overview.md",
     "TryHackMe Learning Path/Nmap/Scan-types/2. TCP Connect Scans.md",
+    "TryHackMe Learning Path/Nmap/Scan-types/3. SYN scans.md",
+    "TryHackMe Learning Path/Nmap/Scan-types/1. Overview.md",
     "TryHackMe Learning Path/Nmap/1. Introduction.md",
     "TryHackMe Learning Path/Nmap/Nmap Switches.md",
     "TryHackMe Learning Path/Nmap/Scan-types",
@@ -199,7 +200,6 @@
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/2. Absolute block bypass/File path traversal, traversal sequences blocked with absolute path bypass.md",
     "PHP Backend/Login&Register(Database)/Future updates and Enhancements.md",
     "PHP Backend/Login&Register(Database)/1. Project Structure.md",
-    "PHP Backend/Roadmap/My plan.md",
     "Pasted image 20250101195831.png",
     "Pasted image 20241227071130.png",
     "Pasted image 20241202203307.png",
