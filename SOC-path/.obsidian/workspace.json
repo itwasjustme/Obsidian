@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe Learning Path/Bounty Hacker/Bounty Hacker.md",
+                "file": "TryHackMe Learning Path/Wifi Hacking 101/3. Let's get cracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bounty Hacker"
+              "title": "3. Let's get cracking"
             }
           },
           {
@@ -178,9 +178,13 @@
   },
   "active": "5fdabf2488a08721",
   "lastOpenFiles": [
+    "TryHackMe Learning Path/Wifi Hacking 101/2. Capturing Packets to attack.md",
+    "TryHackMe Learning Path/Wifi Hacking 101/3. Let's get cracking.md",
+    "TryHackMe Learning Path/Wifi Hacking 101/1. The basics.md",
+    "TryHackMe Learning Path/Bounty Hacker/Bounty Hacker.md",
+    "TryHackMe Learning Path/Wifi Hacking 101",
     "TryHackMe Learning Path/Network Services/FTP/2. Enumerating FTP.md",
     "TryHackMe Learning Path/Network Services/FTP/3. Exploiting FTP.md",
-    "TryHackMe Learning Path/Bounty Hacker/Bounty Hacker.md",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/2. Absolute block bypass/File path traversal, traversal sequences blocked with absolute path bypass.md",
     "TryHackMe Learning Path/Lo-fi/Lo-fi.md",
     "TryHackMe Learning Path/Bounty Hacker",
@@ -203,9 +207,6 @@
     "TryHackMe Advent of Cyber 2024/Day 16.md",
     "TryHackMe Advent of Cyber 2024/Day 15.md",
     "TryHackMe Advent of Cyber 2024/Day 14.md",
-    "TryHackMe Advent of Cyber 2024/Day 13.md",
-    "TryHackMe Advent of Cyber 2024/Day 12.md",
-    "TryHackMe Advent of Cyber 2024/Day 11.md",
     "TryHackMe Learning Path/Basic Pentesting",
     "TryHackMe Learning Path/Nmap/NSE scripts",
     "TryHackMe Learning Path/Nmap/Scan-types",
@@ -213,7 +214,6 @@
     "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting/What is Cross-site Scripting",
     "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting",
     "TryHackMe Learning Path/XSS",
-    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/8. PHP code example",
     "Pasted image 20250101195831.png",
     "Pasted image 20241227071130.png",
     "Pasted image 20241202203307.png",
