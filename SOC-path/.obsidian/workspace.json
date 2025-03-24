@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26caf77539b39c83",
+            "id": "1276b91691602a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path/File path traversal, validation of start of path.md",
+                "file": "TryHackMe Learning Path/Network Services/FTP/3. Exploiting FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File path traversal, validation of start of path"
-            }
-          },
-          {
-            "id": "7fd1af76d0cdda82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting/What is Cross-site Scripting/What is Cross-site Scripting?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is Cross-site Scripting?"
+              "title": "3. Exploiting FTP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,10 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fd1af76d0cdda82",
+  "active": "1276b91691602a2a",
   "lastOpenFiles": [
-    "TryHackMe Learning Path/XSS/7. Context and Evasion.md",
+    "TryHackMe Learning Path/Network Services/FTP/2. Enumerating FTP.md",
+    "TryHackMe Learning Path/Network Services/FTP/3. Exploiting FTP.md",
+    "TryHackMe Learning Path/Network Services/FTP/1. Understanding FTP.md",
+    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path/File path traversal, validation of start of path.md",
+    "POM POM presentation.md",
     "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting/What is Cross-site Scripting/What is Cross-site Scripting?.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "TryHackMe Learning Path/XSS/7. Context and Evasion.md",
     "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting/What is Cross-site Scripting",
     "Portswigger Labs/Server-side vulnerabilities/Cross-site Scripting",
     "Portswigger Labs/Server-side vulnerabilities/Untitled.md",
@@ -194,7 +187,6 @@
     "TryHackMe Learning Path/XSS",
     "PHP Backend/Login&Register(Database)/4. Register Logic.md",
     "PHP Backend/Login&Register(Database)/2. Setting up Database.md",
-    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path/File path traversal, validation of start of path.md",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/8. PHP code example/Code Example.md",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/0. Path Traversal in Simple terms/Path traversal simple analogy.md",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/8. PHP code example",
@@ -209,12 +201,6 @@
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/Decode/Untitled",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/4. Superfluous URL-decode",
     "PHP Backend/Login&Register(Database)/Future updates and Enhancements.md",
-    "PHP Backend/Login&Register(Database)/1. Project Structure.md",
-    "PHP Backend/Roadmap/My plan.md",
-    "TryHackMe Learning Path/DNS/Making A Request.md",
-    "TryHackMe Learning Path/DNS/What is DNS?.md",
-    "MetaCTF Past challenges/Web/Direct Login.md",
-    "MetaCTF Past challenges/Forensics/runCaptcha.md",
     "Pasted image 20250101195831.png",
     "Pasted image 20241227071130.png",
     "Pasted image 20241202203307.png",
