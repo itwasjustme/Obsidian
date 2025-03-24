@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe Learning Path/Network Services/FTP/3. Exploiting FTP.md",
+                "file": "4th-sem-project/Minor project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Exploiting FTP"
+              "title": "Minor project"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "1276b91691602a2a",
   "lastOpenFiles": [
-    "TryHackMe Learning Path/Network Services/FTP/2. Enumerating FTP.md",
     "TryHackMe Learning Path/Network Services/FTP/3. Exploiting FTP.md",
+    "4th-sem-project/Minor project.md",
+    "4th-sem-project",
+    "TryHackMe Learning Path/Network Services/FTP/2. Enumerating FTP.md",
     "TryHackMe Learning Path/Network Services/FTP/1. Understanding FTP.md",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path/File path traversal, validation of start of path.md",
     "POM POM presentation.md",
@@ -199,8 +201,6 @@
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/5. Validation of start of path",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/2. Absolute block bypass/File path traversal, traversal sequences blocked with absolute path bypass.md",
     "Portswigger Labs/Server-side vulnerabilities/Path Traversal/Decode/Untitled",
-    "Portswigger Labs/Server-side vulnerabilities/Path Traversal/4. Superfluous URL-decode",
-    "PHP Backend/Login&Register(Database)/Future updates and Enhancements.md",
     "Pasted image 20250101195831.png",
     "Pasted image 20241227071130.png",
     "Pasted image 20241202203307.png",
