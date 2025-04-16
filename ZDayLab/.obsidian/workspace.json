@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting up/Ubuntu Server 24.10/Fail2ban Guide.md",
+                "file": "Setting up/Ubuntu Server 24.10/Wazuh Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fail2ban Guide"
+              "title": "Wazuh Guide"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "42961926f886dccc",
   "lastOpenFiles": [
-    "Setting up/Ubuntu Server 24.10/Cybersecurity Lab Setup Documentation.md",
     "Setting up/Ubuntu Server 24.10/Fail2ban Guide.md",
+    "Setting up/Ubuntu Server 24.10/Wazuh Guide.md",
+    "Setting up/Ubuntu Server 24.10/Dynamic IP setup Report.md",
+    "Setting up/Ubuntu Server 24.10/Cybersecurity Lab Setup Documentation.md",
     "Untitled.md",
     "Setting up/Ubuntu  Server 24.10.md",
     "Setting up/Ubuntu Server 24.10",
